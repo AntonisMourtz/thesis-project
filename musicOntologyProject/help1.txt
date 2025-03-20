@@ -1,0 +1,34 @@
+Welcome to the Music Ontology Application!
+
+**HELP MENU**
+
+This system allows you to create and manage a music-related ontology using Apache Jena. Below are the available menu options:
+
+1. **Create a new ontology**
+   - The user can create a new ontology from scratch.
+   - The ontology already contains predefined classes (e.g., musicians, songs, bands), and the user will add individuals to these classes.
+
+2. **Edit existing ontology**
+   - The user can modify the existing ontology.
+   - Ability to add new data or delete existing ones.
+   - Create relationships between individuals (e.g., a musician is a member of a band).
+
+3. **Search the ontology**
+   - Find all individuals of a given class.
+   - Find the class of a specific individual.
+   - Compare multiple individuals to find common elements (e.g., shared bands, roles, or collaborations).
+
+4. **Open Protégé (Works only for Windows)**
+   - The program launches Protégé (requires it to be installed on the computer).
+   - Protégé is a tool for editing OWL ontologies, allowing visual data management.
+
+5. **Project information**
+   - Description of the project and the reason it was created.
+
+6. **Display this file (Help Menu)**
+   - The user can read the help file again at any time.
+
+0. **Exit the program**
+   - Terminates the execution of the program.
+
+Please select the desired action from the menu by entering the corresponding number.

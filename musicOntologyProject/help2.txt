@@ -1,0 +1,21 @@
+**ONTOLOGY PROCESSING - HELP MENU**
+
+This menu allows users to process and modify their ontology by adding or removing individuals and defining relationships. Below are the available options:
+
+1. **Create relationships (Object Properties)**
+   - The user can establish connections between individuals using object properties.
+   - Example: Linking a musician to a band using "memberOf".
+
+2. **Add a new individual**
+   - The user can add a new individual to any predefined class in the ontology.
+
+3. **Remove an individual**
+   - The user can delete an existing individual from the ontology.
+
+4. **Display this file (Help Menu)**
+   - The user can read the help file again at any time.
+
+0. **Return to the previous menu**
+   - Takes the user back to the previous menu.
+
+Please select the desired action by entering the corresponding number.
